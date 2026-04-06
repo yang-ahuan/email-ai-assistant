@@ -2,7 +2,6 @@ import json
 import os
 from datetime import datetime
 from fastmcp import FastMCP
-from pydantic import BaseModel, Field
 import chinese_calendar as calendar
 
 # 設定行事曆檔案路徑
